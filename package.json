@@ -1,0 +1,28 @@
+{
+  "name": "com.sinue.server.firstservice",
+  "version": "0.0.1",
+  "description": "This is a server for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinnup/HapiJSServer.git"
+  },
+  "keywords": [
+    "Testing",
+    "Hapi.js",
+    "server"
+  ],
+  "author": "Sinue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinnup/HapiJSServer/issues"
+  },
+  "homepage": "https://github.com/Sinnup/HapiJSServer#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "braintree": "^2.18.0"
+  }
+}
